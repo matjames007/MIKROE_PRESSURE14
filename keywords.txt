@@ -1,0 +1,32 @@
+######################################################################
+# Syntax Coloring Map for SparkFun MicroPressure Sensor Library #
+######################################################################
+# Class
+######################################################################
+
+Mikroe_PressureClick14	KEYWORD1
+
+######################################################################
+# Methods and Functions
+######################################################################
+
+begin	KEYWORD2
+readStatus	KEYWORD2
+readPressure	KEYWORD2
+readTemperature	KEYWORD2
+
+######################################################################
+# Constants
+######################################################################
+
+PSI	KEYWORD3
+PA	KEYWORD3
+KPA	KEYWORD3
+TORR	KEYWORD3
+INHG	KEYWORD3
+ATM	KEYWORD3
+BAR	KEYWORD3
+
+KELVIN KEYWORD3
+CELSIUS KEYWORD3
+FAHRENHEIT KEYWORD3
